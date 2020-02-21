@@ -20,4 +20,4 @@ http://dallascad.org/DataProducts.aspx
     * Using Logistic Regression, KNN, Decision Tree, Random Forest, and Support Vector Machine models we are able to predict the your eligibity to appeal for alower tax rate 
     * Support Vector Machine model is the most accurate for predicting the outcome 
 *Set up dynamic website with bootstrap formating, using HTML, CSS, Javascript.
-*Using Python Flask App, connect to server and run SQL queries to connect data to website bases on user input.
+*Using Python Flask App to connect to server and SQLAlquemy to run SQL queries, connected data to website based on user inputs.
