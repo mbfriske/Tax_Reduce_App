@@ -19,5 +19,5 @@ http://dallascad.org/DataProducts.aspx
 * SckKit Learn libray was used to run the cleaned data through machine learning models 
     * Using Logistic Regression, KNN, Decision Tree, Random Forest, and Support Vector Machine models we are able to predict the your eligibity to appeal for alower tax rate 
     * Support Vector Machine model is the most accurate for predicting the outcome 
-*Set up dynamic website with bootstrap formating, using HTML, CSS, Javascript.
-*Using Python Flask App to connect to server and SQLAlquemy to run SQL queries, connected data to website based on user inputs.
+Set up dynamic website with bootstrap formating, using HTML, CSS, Javascript.
+Using Python Flask App to connect to server and SQLAlquemy to run SQL queries, connected data to website based on user inputs.
