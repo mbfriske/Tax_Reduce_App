@@ -21,4 +21,3 @@ http://dallascad.org/DataProducts.aspx
     * Support Vector Machine model is the most accurate for predicting the outcome 
 * Set up dynamic website with bootstrap formating, using HTML, CSS, Javascript.
 * Using Python Flask App to connect to server and SQLAlquemy to run SQL queries, connected data to website based on user inputs.
-.
